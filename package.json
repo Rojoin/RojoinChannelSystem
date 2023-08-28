@@ -1,0 +1,20 @@
+{
+  "name": "com.nachoarrastua.channelso",
+  "version": "1.0.1",
+  "displayName": "Rojoin Channels",
+  "description": "Channel system based on ScriptableObjects",
+  "unity": "2022.2",
+  "unityRelease": "9f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/Rojoin/RojoinChannelSystem/blob/main/LICENSE",
+  "keywords": [
+    "Channel",
+    "Rojoin"
+  ],
+  "author": {
+    "name": "Rojoin",
+    "email": "nachoarrastua@gmail.com",
+    "url": "https://github.com/Rojoin"
+  }
+}
